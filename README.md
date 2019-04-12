@@ -1,3 +1,3 @@
-readme
+"resizing" a map while keeping the center, like in gasbuddy app
 
-![video](./demo.MP4)
+[demo](./demo.MP4)
